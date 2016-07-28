@@ -33,4 +33,4 @@
 - [Matlab for Psychologists](http://antoniahamilton.com/matlab.html) ist ein gutes Tutorial
 
 ## Sammlung ausstehende todos
-[ ] Einrichtung Arbeitsplatz Espen in Matthias'Büro / an seinem Schreibtisch
+- [ ] Einrichtung Arbeitsplatz Espen in Matthias'Büro / an seinem Schreibtisch
